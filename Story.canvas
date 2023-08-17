@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"type":"text","text":"Chapter 1: A Friend In Need\n\n","id":"f8b9976db0e6cca7","x":-600,"y":-340,"width":250,"height":60},
+		{"type":"text","text":"[[Volo]] gives the adventurers a quest and an estate as their reward","id":"e9c643aca7bb8213","x":-600,"y":-260,"width":250,"height":96},
+		{"type":"text","text":"Adventurers settle into their new estate and meet the neighbours.","id":"af8dc99e35760adb","x":-600,"y":181,"width":250,"height":119},
+		{"type":"text","text":"Chapter 3: Fireball","id":"62d47dae0b5e0a82","x":-601,"y":409,"width":250,"height":60},
+		{"type":"text","text":"A fireball explodes in trollskull alley, setting of an investigation","id":"3842d83fff17509c","x":-600,"y":481,"width":250,"height":100},
+		{"type":"text","text":"Chapter 4: Dragon season","id":"6bdc3bd76b4102ba","x":-600,"y":684,"width":250,"height":60},
+		{"type":"text","text":"Adventurers join the race to find and unlock the vault of dragons","id":"eeecdeae5e3875e5","x":-600,"y":781,"width":250,"height":87},
+		{"type":"text","text":"Chapter 5: Villain lair","id":"9864624d0964b566","x":-600,"y":981,"width":250,"height":52},
+		{"type":"text","text":"Chapter 2: Trollskull alley","id":"cc4050020d732ab4","x":-601,"y":108,"width":250,"height":60},
+		{"id":"963de89cf9cfaa28","x":320,"y":-62,"width":400,"height":400,"type":"file","file":"Chapters/Chapter 2/Chapter 2.canvas"},
+		{"type":"file","file":"Chapters/Chapter 1/Chapter 1.canvas","id":"ee31991fc5f12900","x":320,"y":-510,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"aa3da21f1e62915b","fromNode":"f8b9976db0e6cca7","fromSide":"right","toNode":"ee31991fc5f12900","toSide":"left"},
+		{"id":"052e043a0324a9b0","fromNode":"f8b9976db0e6cca7","fromSide":"bottom","toNode":"e9c643aca7bb8213","toSide":"top"},
+		{"id":"3e1d905be5926e63","fromNode":"e9c643aca7bb8213","fromSide":"bottom","toNode":"cc4050020d732ab4","toSide":"top"},
+		{"id":"f5b5b6623dfed7eb","fromNode":"cc4050020d732ab4","fromSide":"bottom","toNode":"af8dc99e35760adb","toSide":"top"},
+		{"id":"06039b77cd385a9d","fromNode":"af8dc99e35760adb","fromSide":"bottom","toNode":"62d47dae0b5e0a82","toSide":"top"},
+		{"id":"c54a07afcf76aaba","fromNode":"62d47dae0b5e0a82","fromSide":"bottom","toNode":"3842d83fff17509c","toSide":"top"},
+		{"id":"5d3eb08ca47968d7","fromNode":"3842d83fff17509c","fromSide":"bottom","toNode":"6bdc3bd76b4102ba","toSide":"top"},
+		{"id":"ab0f50020cc5e36d","fromNode":"6bdc3bd76b4102ba","fromSide":"bottom","toNode":"eeecdeae5e3875e5","toSide":"top"},
+		{"id":"45552d40901116ae","fromNode":"eeecdeae5e3875e5","fromSide":"bottom","toNode":"9864624d0964b566","toSide":"top"},
+		{"id":"f5554918973aa98a","fromNode":"cc4050020d732ab4","fromSide":"right","toNode":"963de89cf9cfaa28","toSide":"left"}
+	]
+}

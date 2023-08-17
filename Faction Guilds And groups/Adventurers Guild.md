@@ -1,0 +1,3 @@
+IDk maybe?
+
+One! Don't shirk work! Two! Run away and pay! Three! Smiles go for miles! Four! Once you put a job on your team's list, then use Take Job! That step can't be missed! Five! Restock your supplies and rations before heading out on explorations! Six! Before you explore, try to think about the moves you should link! Seven! While exploring, don't you panic! Stay cool and calm, never manic! Eight! Helping all Pokémon in need is an explorer's duty, indeed! Nine! Do lots of jobs! That's truly the key! You'll reach Gold Rank. Just wait and see! Ten! The money you earn is shared with the guild! That's the way our friendship will build!

@@ -1,0 +1,12 @@
+In this campaign, we will journey to Waterdeep, the City of Splendors! Along the Sword Coast, more than a tenday ride south from Phandalin lies Waterdeep, a bustling, crowded, busy mercantile city where coin is king and tolerance for people of all races and religions is high. Waterdhavians live life at a fast pace, and despite their fervent work ethic, they rarely miss an opportunity to celebrate, with festivals often going on all day and all night. In Waterdeep, wealth brings respect, respect earns influence, and influence is power. They say that all wealth on the Sword Coast moves through this city, and those with enough influence or cunning might find a chance to keep some of it themselves.
+
+It's been five years since the end of the War of the Dragon Queen. Numerous villages, towns, and cities lost tremendous amounts of coin when raided by the Cult of the Dragon. Much of it was never recovered. Due to his negligence during this period (and preferential political treatment of Neverwinter), Lord Dagult Neverember lost his seat as the Open Lord of Waterdeep to Laeral Silverhand, the current Open Lord of Waterdeep.
+
+Who knows what adventures await you in Waterdeep, the City of Splendors!
+
+About the Campaign: Waterdeep Dragon Heist is a city-based adventure with a focus on roleplay and investigation over combat. Characters go on a grand tour of one of D&D’s most famous and interesting cities in search of treasure and lost artifacts and get the opportunity to become a real part of the city, rising in rank and renown through Waterdeep’s key factions. Clever heroes will respect the city’s rules, those who get on the city’s bad side are in for a rough ride.
+
+What to expect: Waterdeep Dragon Heist is an adventure of investigation and mystery. All characters should have a solid motivation to investigate mysteries with their companions in the city of Waterdeep. This is an urban adventure in which you are not likely to leave the city or leave it for very long. Combat takes a back seat to roleplaying and investigation. All characters should have something to do in roleplay (social), exploration, and investigation scenes.
+
+Darren Note: Het is niet alsof er geen combat is in de campaign, dat is er zeker wel. Maar als je een story wilt waarbij je een character hebt die alleen aan hoeft te vallen, dan is dit denk ik niet voor jou. Er zullen sessies zijn waarbij er redelijk wat combat is, en misschien zelfs een aantal waarbij er 0 is. Het idee is dat je echt na probeert te denken over mogelijkheden in de stad. 
+

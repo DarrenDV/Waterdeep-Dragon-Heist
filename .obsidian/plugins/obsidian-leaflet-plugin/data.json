@@ -1,0 +1,187 @@
+{
+  "mapMarkers": [
+    {
+      "id": "leaflet-map",
+      "locked": true,
+      "lastAccessed": 1685828591473,
+      "markers": [
+        {
+          "id": "ID_09b8da7a8a89",
+          "type": "default",
+          "loc": [
+            -4.1598219130672085,
+            6.283059615388213
+          ],
+          "link": "The Yawning portal - location",
+          "layer": "%5B%5Bmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "adasdasd",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_09885a0a98db",
+          "type": "default",
+          "loc": [
+            -10.413691274316964,
+            5.350269076474191
+          ],
+          "layer": "%5B%5Bmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a8f8a8187b3a",
+          "type": "default",
+          "loc": [
+            -7.613984810368411,
+            6.421687633685562
+          ],
+          "layer": "%5B%5Bmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8b48383a4938",
+          "type": "default",
+          "loc": [
+            -7.645234938161292,
+            6.438286290686566
+          ],
+          "layer": "%5B%5Bmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cbebbab9e92a",
+          "type": "default",
+          "loc": [
+            -7.697969528811779,
+            6.4470738149812155
+          ],
+          "layer": "%5B%5Bmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_eb781a88488b",
+          "type": "default",
+          "loc": [
+            -7.7458212869946275,
+            6.4470738149812155
+          ],
+          "layer": "%5B%5Bmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Untitled.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "5.6.1",
+  "version": {
+    "major": 5,
+    "minor": 6,
+    "patch": 1
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": "falsemarker",
+    "defaultZoom": "5",
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "2000px",
+    "image": "[[map.jpg]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[map.jpg]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": "10",
+    "minZoom": "1",
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": "1",
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 1,
+    "zoomFeatures": false,
+    "id": "leaflet-map",
+    "lat": "50",
+    "long": "50",
+    "unit": "meters",
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultAttribution": "Map tiles by <a href=\"http://stamen.com\">Stamen Design</a>, under <a href=\"http://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>. Data by <a href=\"http://openstreetmap.org\">OpenStreetMap</a>, under <a href=\"http://www.openstreetmap.org/copyright\">ODbL</a>.",
+  "defaultTileSubdomains": "a,b,c"
+}

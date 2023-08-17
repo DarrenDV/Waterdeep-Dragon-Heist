@@ -1,0 +1,25 @@
+- Bepaal hoe irl
+	- Ik heb sws mijn eigen laptop nodig
+	- We kunnen doen dat iedereen laptop meeneemt
+		- Voor roll20 enzo
+	- We kunnen doen dat een aantal mensen laptops meenemen en delen
+		- Meer tafel
+	- We kunnen 1 extra laptop doen, die achter de mijne staat (roll20 visie)
+	- Ik doe het liefst geen papieren maps omdat ik die moeite niet extra wil doen
+- Rolverdeling
+	- Jelle - verre reiziger
+		- Bepaalt wat de playtime is - jelle zou er van 12:00 tot 19:00 willen zijn
+	- Darren - de coole guy
+		- Doet de moeite
+	- De 4 musketiers
+		- Snacks en andere consumptiemiddelen
+			- We spelen most likely vroeg middag, ik ga niet zuipen
+- Playtime
+	- Wat geef ik als max range:
+		- We kunnen de huidige quest 100% completen (dit doen we makkelijk met een sessie)
+		- We kunnen de volgende quest/ dingen om te doen gaan doen
+			- Als we dit af willen maken, gaat het zeker langer duren dan een normale sessie (~4 uur), maar ik ben zelf wel down
+	- We gaan sowieso 1 of 2 breaks nodig hebben
+		- Hond uitlaten en chappen enzo
+- Diner
+	- We kunnen bij mij chappen, geen idee wat

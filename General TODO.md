@@ -1,0 +1,99 @@
+- [ ] Add Act 1 item to boss
+	- [ ] Ring of true self? Adds wisdom to ki points? Minimum 1
+- [ ] Rats of waterdeep / ACT 2
+	- [ ] Trollskull Alley NPC art
+		- [ ] Talisolvanar "Tally" Fellbranch
+		- [ ] Embric, who uses his fire to heat the steel up to temperature. And Avi, who uses her cooling to reduce temperatures. 
+		- [ ] Fala Lefaliir is an outgoing wood elf with long, braided hair.
+		- [ ] [[Vincent Trench]] 
+		- [ ] Rishaal the page-turner - Short dragonborn, mage
+		- [ ] [[The three Urchins]] 
+	- [x] [[Rats - Part 1]] 
+	- [x] [[Rats - Part 2]] 
+	- [x] [[Rats - part 3]] 
+	- [ ] [[Return to WDCW HQ]] 
+	- [ ] Maps
+		- [ ] Part 1 - apartment & street
+		- [ ] Part 2 - Dock wards apothecary
+		- [ ] Part 2 - Temple of rot
+		- [ ] Part 3 - Rat Kings Lair
+		- [ ] Part 3 - Salvation Parade
+		- [ ] Part 3 - Foil the Xanathar
+	- [ ] Art
+		- [ ] Dead body brisby
+		- [ ] Thug
+		- [ ] Joy Hult
+		- [ ] Cultists
+		- [ ] Infected people 
+		- [ ] Swarm of rats
+		- [ ] The rat king
+		- [ ] The lady of plagues
+		- [ ] Apprentice wizard
+	- [ ] Music
+	- [ ] Handouts / Puzzle
+- [ ] Act 3
+	- [ ] Fireball
+- [ ] Act 4
+- [ ] Act 5
+
+- Items
+	- [ ] Daniel ki-point thing
+	- [ ] Daniel extra ding
+	- [ ] Oliver items 
+	- [ ] Lucyus Items
+	- [ ] Cedric extra
+
+- Locations
+	- [ ] Xanathar lair
+		- [ ] Layout
+		- [ ] Map
+		- [ ] Music
+	- [ ] Kolat towers
+		- [ ] Layout
+		- [ ] Map
+		- [ ] Music
+	- [ ] Cassalanter villa
+		- [ ] Layout
+		- [ ] Map
+		- [ ] Music
+	- [ ] Boats of [[Bregan D'aerthe]] 
+		- [ ] Layout
+		- [ ] Map
+		- [ ] Music
+	- [ ] The market
+		- [ ] Layout
+		- [ ] Map
+		- [ ] Music
+	- [ ] Casino
+		- [ ] Layout
+		- [ ] Map
+		- [ ] Music
+
+- Factions
+	- [ ] [[Force Gray]] 
+		- [x] Introduction / invitation
+		- [ ] Questing tree
+		- [ ] Music
+	- [ ] Church of Tyr
+		- [ ] Introduction / invitation
+		- [ ] Questing tree
+		- [ ] Music
+	- [ ] Waterdeep monestary 
+		- [ ] Introduction / invitation
+		- [ ] Questing tree
+		- [ ] Music
+	- [ ] Harpers
+		- [ ] Introduction / invitation
+		- [ ] Questing tree
+		- [ ] Music
+	- [ ] Shadow Wizard Money Gang
+		- [ ] Introduction / invitation
+		- [ ] Questing tree
+		- [ ] Music
+	- [ ] [[Adventurers Guild]] 
+		- [ ] Introduction / invitation
+		- [ ] Questing tree
+		- [ ] Music
+
+* Side quests?
+	* [ ] Idk
