@@ -75,7 +75,7 @@ What does staget know:
 * Captain Brisby didn’t show for their rendezvous, and Staget fears the worst. He’s found the captain’s address, but it’s inside the quarantine zone and staget doesn’t want to risk his health chasing up the lead. 
 * He can't send in [[Force Gray]] agents because the dangers are a bureaucratic nightmare and they don't have enough time to spare, they need action taken now. 
 * He says the civilians inside the quarantine zone are planning a prayer march this evening. He expects the characters to complete their investigation before the march, called the Salvation Parade, concludes
-* If the characters investigate what happened to the captain, and uncover the “truth", they'll be rewarded handsomely POSSIBLEEXTRASTUFF
+* If the characters investigate what happened to the captain, and uncover the “truth", they'll be rewarded handsomely, the reward however, cannot be disclosed, the only thing they can know is that serving the city is rewarded handsomely.
 
 If they do accept, hand them a signed paper allowing them entry at the QZ border and a map leading towards Brisby's home
 

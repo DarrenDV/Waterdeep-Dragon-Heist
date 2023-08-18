@@ -8,10 +8,12 @@
 		- [ ] [[Vincent Trench]] 
 		- [ ] Rishaal the page-turner - Short dragonborn, mage
 		- [ ] [[The three Urchins]] 
-	- [x] [[Rats - Part 1]] 
-	- [x] [[Rats - Part 2]] 
-	- [x] [[Rats - part 3]] 
-	- [ ] [[Return to WDCW HQ]] 
+	- [x] Scenes
+		- [x] [[WDCW HQ]] 
+		- [x] [[Rats - Part 1]] 
+		- [x] [[Rats - Part 2]] 
+		- [x] [[Rats - part 3]] 
+		- [x] [[Return to WDCW HQ]] 
 	- [ ] Maps
 		- [ ] Part 1 - apartment & street
 		- [ ] Part 2 - Dock wards apothecary
@@ -30,6 +32,8 @@
 		- [ ] The lady of plagues
 		- [ ] Apprentice wizard
 	- [ ] Music
+	- [ ] Items 
+		- [ ] Badge of the watch
 	- [ ] Handouts / Puzzle
 - [ ] Act 3
 	- [ ] Fireball
