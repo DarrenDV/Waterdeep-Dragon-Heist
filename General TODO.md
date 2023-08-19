@@ -1,13 +1,22 @@
-- [ ] Add Act 1 item to boss
-	- [ ] Ring of true self? Adds wisdom to ki points? Minimum 1
+- [x] Add Act 1 item to boss
+	- [x] Ring of true self? Adds wisdom to ki points? Minimum 1
 - [ ] Rats of waterdeep / ACT 2
 	- [ ] Trollskull Alley NPC art
 		- [ ] Talisolvanar "Tally" Fellbranch
+			- [x] 
 		- [ ] Embric, who uses his fire to heat the steel up to temperature. And Avi, who uses her cooling to reduce temperatures. 
+			- [x] =
+			- [x] =
 		- [ ] Fala Lefaliir is an outgoing wood elf with long, braided hair.
+			- [x] a
 		- [ ] [[Vincent Trench]] 
+			- [x] a
 		- [ ] Rishaal the page-turner - Short dragonborn, mage
+			- [ ] make in bg3
 		- [ ] [[The three Urchins]] 
+			- [x] a
+			- [x] b
+			- [ ] c
 	- [x] Scenes
 		- [x] [[WDCW HQ]] 
 		- [x] [[Rats - Part 1]] 
@@ -32,8 +41,8 @@
 		- [ ] The lady of plagues
 		- [ ] Apprentice wizard
 	- [ ] Music
-	- [ ] Items 
-		- [ ] Badge of the watch
+	- [x] Items 
+		- [x] Badge of the watch
 	- [ ] Handouts / Puzzle
 - [ ] Act 3
 	- [ ] Fireball
@@ -41,7 +50,7 @@
 - [ ] Act 5
 
 - Items
-	- [ ] Daniel ki-point thing
+	- [x] Daniel ki-point thing
 	- [ ] Daniel extra ding
 	- [ ] Oliver items 
 	- [ ] Lucyus Items

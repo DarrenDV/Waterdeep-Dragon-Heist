@@ -18,6 +18,7 @@ Or:
 		- A possible way to have judge look the other way on certain crimes
 		- A [[Badge of the watch]], one for everyone
 - 300gp.
+- 3 healing potions
 
 At this point the PC's also level up to level 3.
 

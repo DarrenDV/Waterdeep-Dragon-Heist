@@ -15,6 +15,28 @@ When PC's first enter they arrive in the tavern portion of the bar. They find a 
 The other rooms are all empty, expect for cobwebs, dust and harmless rats. 
 
 
+# LAYOUT
+
+## Ground floor 
+The ground floor is the main bar and taproom. It consists of a bar, pantry, kitchen and a hatch to the basement
+
+## Basement 
+The basement contains 2 subcellars, a wine and ale cellar
+When first entering the basement, a PC can encounter a swarm of rats
+```statblock
+monster: Swarm of Rats
+```
+
+## 2nd floor 
+The 2nd floor is the main floor for living quarters, it consists of 2 halls, a common room, 2 bedrooms.
+
+## 3rd floor
+The 3rd floor contains more living quarters, 2 bedrooms, each with their own bathroom. One of the bedrooms has a connection to the tower of trollskull manor. Which whilst small, goes up higher than the rest of the building. The 3rd floor also contains a library / study and 2 small closets. 
+
+## Attic
+The attic contains another bedroom and a room that can be used for whatever, normally storage. 
+
+
 
 # LIF
 The entire building is haunted by a poltergeist named [[Lif]], the previous barkeep. 

@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "5b15203df5546560",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Friend/The three Urchins.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8ca8537eb9f582b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Trollskull Manor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "fefbcc27cbf51809",
             "type": "leaf",
             "state": {
@@ -32,12 +56,24 @@
             }
           },
           {
+            "id": "c513019dce095b17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Trollskull Alley.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "54d948c66a08dfa2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapters/Chapter 2/Scenes/WDCW HQ.md",
+                "file": "Items/My Magic Items/Badge of the watch.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,9 +102,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "06adee25c050a725",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Items/My Magic Items/Amulet of inner peace.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1421437c318ed00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapters/Chapter 1/Scenes/The Sewers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapters/Chapter 2/Scenes/WDCW HQ.md",
+                "file": "Characters/Friend/The three Urchins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapters/Chapter 2/Scenes/WDCW HQ.md",
+                "file": "Characters/Friend/The three Urchins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapters/Chapter 2/Scenes/WDCW HQ.md"
+                "file": "Characters/Friend/The three Urchins.md"
               }
             }
           },
@@ -235,16 +295,39 @@
       "initiative-tracker:Intiative Tracker Encounter Builder": false
     }
   },
-  "active": "54d948c66a08dfa2",
+  "active": "5b15203df5546560",
   "lastOpenFiles": [
+    "Characters/Images/Fullart/lif - urchin 3.png",
+    "Characters/Images/Fullart/lif - urchin 3.png.crdownload",
     "General TODO.md",
+    "Characters/Friend/The three Urchins.md",
+    "Characters/Images/Fullart/nat - urchin 1.jpg",
+    "Characters/Images/Fullart/nat - urchin 1.jpg.crdownload",
+    "Characters/Images/Fullart/jenks - urchin 1.jpg",
+    "Characters/Images/Fullart/jenks - urchin 1.jpg.crdownload",
+    "Characters/Images/Fullart/rakshasa.png",
+    "Characters/Images/Fullart/rakshasa.png.crdownload",
+    "Characters/Images/Fullart/vincent trench.png",
+    "Characters/Images/Fullart/vincent trench.png.crdownload",
+    "Characters/Images/Fullart/fala lefaliir.png",
+    "Characters/Images/Fullart/fala lefaliir.png.crdownload",
+    "Characters/Images/Fullart/Avi.jpg",
+    "Characters/Images/Fullart/Avi.jpg.crdownload",
+    "Characters/Images/Fullart/embric.jpg",
+    "Characters/Images/Fullart/embric.jpg.crdownload",
+    "Characters/Images/Fullart/Talisolvanar Tally Fellbranch.png",
+    "Characters/Images/Fullart/Talisolvanar Tally Fellbranch.png.crdownload",
+    "Locations/Trollskull Alley.md",
     "Chapters/Chapter 2/Scenes/Return to WDCW HQ.md",
     "Locations/Trollskull Manor.md",
-    "Chapters/Chapter 2/Scenes/Trollskull Manor.md",
-    "Items/My Magic Items/Badge of the watch.md",
-    "Music.md",
-    "Chapters/Chapter 2/Scenes/WDCW HQ.md",
+    "Items/My Magic Items/Amulet of inner peace.md",
     "Chapters/Chapter 1/Scenes/The Sewers.md",
+    "Amulet of inner peace.png",
+    "Items/My Magic Items/Badge of the watch.md",
+    "Items/My Magic Items/Badge of the watch.png",
+    "Chapters/Chapter 2/Scenes/WDCW HQ.md",
+    "Chapters/Chapter 2/Scenes/Trollskull Manor.md",
+    "Music.md",
     "Characters/Friend/Durnan.md",
     "Chapters/Prologue/INTRO - BOLT.md",
     "Chapters/Chapter 1/Scenes/The yawning portal.md",
@@ -254,37 +337,14 @@
     "Chapters/Prologue/INTRO - Siebren the Cooper.md",
     "Items/My Magic Items/Pipes of the sewers.md",
     "Items/My Magic Items/Cloak of billowing.md",
-    "Items/My Magic Items/Cloak of billowing.png",
-    "Locations/Trollskull Alley.md",
     "Characters/Vincent Trench.md",
-    "Maps/Waterdeep.jpg",
-    "Items/My Magic Items/Pipes of the sewers.png",
-    "Pasted image 20230814020137.png",
     "Chapters/Chapter 1/Scenes/The dock ward.md",
     "Chapters/Chapter 1/Scenes/Candle Lane.md",
-    "Handouts/Stagets letters.png",
-    "Handouts/Harbor holdings Security check solved.png",
-    "Handouts/Harbor holdings Security check.png",
-    "Handouts/Straight talk from the docks.png",
     "SHITTOCTRLF.md",
     "Chapters/Prologue/INTRO - Witlock.md",
-    "Chapters/Prologue/INTRO - Sticky Mickey.md",
-    "Chapters/Prologue/INTRO - Lucyus.md",
-    "Characters/Players/Witlock.md",
-    "Pasted image 20230812212847.png",
     "Story.canvas",
-    "Handouts/Stagets Letter.jpg",
     "Chapters/Chapter 2/Chapter 2.canvas",
     "Characters/Images/Fullart/duergar.jpg.crdownload",
-    "Characters/Images/Fullart/captain staget.png.crdownload",
-    "Characters/Images/Token/gray ooze.png.crdownload",
-    "Characters/Images/Fullart/Grum'shar.png.crdownload",
-    "Characters/Images/Fullart/Intellect devourer.webp.crdownload",
-    "Characters/Images/Fullart/mindflayer.webp.crdownload",
-    "Characters/Images/PCS/stickey_mickey.png.crdownload",
-    "Characters/Images/PCS/Lucyus.png.crdownload",
-    "Characters/Images/Fullart/Lucyus.png.crdownload",
-    "Characters/Images/Fullart/floon.png.crdownload",
     "Chapters/Chapter 1/Chapter 1.canvas",
     "Untitled.canvas"
   ]

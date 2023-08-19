@@ -168,7 +168,7 @@ ON Grum'Shar:
 
 When a player wants to look around, tell them about treasure chest, else ask for perception 
 	Treasure chest contains:
-	2 potions of healing, 50gp,  OTHERITEMPOSSIBLE
+	2 potions of healing, 50gp,  [[Amulet of inner peace]] 
 
 
 ## Q8
