@@ -20,72 +20,24 @@
             }
           },
           {
-            "id": "5b15203df5546560",
+            "id": "1df70e2d09cf8b24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Friend/The three Urchins.md",
+                "file": "Chapters/Chapter 2/Scenes/Rats - Part 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e8ca8537eb9f582b",
+            "id": "c2c8990f9fd213cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Trollskull Manor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fefbcc27cbf51809",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapters/Chapter 2/Scenes/Return to WDCW HQ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c513019dce095b17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Trollskull Alley.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "54d948c66a08dfa2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Items/My Magic Items/Badge of the watch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29f2c2eb7e6fb18f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Items/My Magic Items/Badge of the watch.md",
+                "file": "Chapters/Chapter 2/Scenes/Rats - Part 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,33 +54,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "06adee25c050a725",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Items/My Magic Items/Amulet of inner peace.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1421437c318ed00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapters/Chapter 1/Scenes/The Sewers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Friend/The three Urchins.md",
+                "file": "General TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Friend/The three Urchins.md",
+                "file": "General TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Friend/The three Urchins.md"
+                "file": "General TODO.md"
               }
             }
           },
@@ -295,36 +222,39 @@
       "initiative-tracker:Intiative Tracker Encounter Builder": false
     }
   },
-  "active": "5b15203df5546560",
+  "active": "06495ec64fdd100f",
   "lastOpenFiles": [
-    "Characters/Images/Fullart/lif - urchin 3.png",
-    "Characters/Images/Fullart/lif - urchin 3.png.crdownload",
+    "Maps/RATS-Apartement-street_48x49.png",
+    "Maps/DungeonScrawl/RATS-Apartement-street.ds",
+    "Chapters/Chapter 2/Scenes/Rats - Part 1.md",
     "General TODO.md",
+    "Characters/Images/Fullart/king of rats.png",
+    "Characters/Images/Fullart/king of rats.png.crdownload",
+    "Characters/Images/Fullart/xanathar apprentice wizard.jpg",
+    "Characters/Images/Fullart/xanathar apprentice wizard.jpg.crdownload",
+    "Characters/Images/Fullart/joy hult.png",
+    "Characters/Images/Fullart/joy hult.png.crdownload",
+    "Characters/Images/Fullart/rat infected 2.jpg",
+    "Characters/Images/Fullart/rat infected 2.jpg.crdownload",
+    "Characters/Images/Fullart/rat infected 1.jpg",
+    "Characters/Images/Fullart/rat infected 1.jpg.crdownload",
+    "Characters/Images/Fullart/captain brisby.jpg",
+    "Characters/Images/Fullart/captain brisby.jpg.crdownload",
+    "Characters/Images/Fullart/swarm of rats.webp",
+    "Characters/Images/Fullart/swarm of rats.webp.crdownload",
+    "Characters/Images/Fullart/the lady of plagues.jpg",
+    "Characters/Images/Fullart/the lady of plagues.jpg.crdownload",
+    "Chapters/Chapter 2/Scenes/Rats - Part 2.md",
+    "Characters/Images/Fullart/plague cultist.jpg",
+    "Characters/Images/Fullart/plague cultist.jpg.crdownload",
+    "Characters/Images/Fullart/thug.png",
+    "Locations/Trollskull Manor.md",
     "Characters/Friend/The three Urchins.md",
-    "Characters/Images/Fullart/nat - urchin 1.jpg",
-    "Characters/Images/Fullart/nat - urchin 1.jpg.crdownload",
-    "Characters/Images/Fullart/jenks - urchin 1.jpg",
-    "Characters/Images/Fullart/jenks - urchin 1.jpg.crdownload",
-    "Characters/Images/Fullart/rakshasa.png",
-    "Characters/Images/Fullart/rakshasa.png.crdownload",
-    "Characters/Images/Fullart/vincent trench.png",
-    "Characters/Images/Fullart/vincent trench.png.crdownload",
-    "Characters/Images/Fullart/fala lefaliir.png",
-    "Characters/Images/Fullart/fala lefaliir.png.crdownload",
-    "Characters/Images/Fullart/Avi.jpg",
-    "Characters/Images/Fullart/Avi.jpg.crdownload",
-    "Characters/Images/Fullart/embric.jpg",
-    "Characters/Images/Fullart/embric.jpg.crdownload",
-    "Characters/Images/Fullart/Talisolvanar Tally Fellbranch.png",
-    "Characters/Images/Fullart/Talisolvanar Tally Fellbranch.png.crdownload",
     "Locations/Trollskull Alley.md",
     "Chapters/Chapter 2/Scenes/Return to WDCW HQ.md",
-    "Locations/Trollskull Manor.md",
     "Items/My Magic Items/Amulet of inner peace.md",
     "Chapters/Chapter 1/Scenes/The Sewers.md",
-    "Amulet of inner peace.png",
     "Items/My Magic Items/Badge of the watch.md",
-    "Items/My Magic Items/Badge of the watch.png",
     "Chapters/Chapter 2/Scenes/WDCW HQ.md",
     "Chapters/Chapter 2/Scenes/Trollskull Manor.md",
     "Music.md",
@@ -332,8 +262,6 @@
     "Chapters/Prologue/INTRO - BOLT.md",
     "Chapters/Chapter 1/Scenes/The yawning portal.md",
     "Chapters/Chapter 2/Scenes/Rats - part 3.md",
-    "Chapters/Chapter 2/Scenes/Rats - Part 2.md",
-    "Chapters/Chapter 2/Scenes/Rats - Part 1.md",
     "Chapters/Prologue/INTRO - Siebren the Cooper.md",
     "Items/My Magic Items/Pipes of the sewers.md",
     "Items/My Magic Items/Cloak of billowing.md",
@@ -344,7 +272,6 @@
     "Chapters/Prologue/INTRO - Witlock.md",
     "Story.canvas",
     "Chapters/Chapter 2/Chapter 2.canvas",
-    "Characters/Images/Fullart/duergar.jpg.crdownload",
     "Chapters/Chapter 1/Chapter 1.canvas",
     "Untitled.canvas"
   ]

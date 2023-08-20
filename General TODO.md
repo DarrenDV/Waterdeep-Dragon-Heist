@@ -2,21 +2,21 @@
 	- [x] Ring of true self? Adds wisdom to ki points? Minimum 1
 - [ ] Rats of waterdeep / ACT 2
 	- [ ] Trollskull Alley NPC art
-		- [ ] Talisolvanar "Tally" Fellbranch
+		- [x] Talisolvanar "Tally" Fellbranch
 			- [x] 
-		- [ ] Embric, who uses his fire to heat the steel up to temperature. And Avi, who uses her cooling to reduce temperatures. 
+		- [x] Embric, who uses his fire to heat the steel up to temperature. And Avi, who uses her cooling to reduce temperatures. 
 			- [x] =
 			- [x] =
-		- [ ] Fala Lefaliir is an outgoing wood elf with long, braided hair.
+		- [x] Fala Lefaliir is an outgoing wood elf with long, braided hair.
 			- [x] a
-		- [ ] [[Vincent Trench]] 
+		- [x] [[Vincent Trench]] 
 			- [x] a
 		- [ ] Rishaal the page-turner - Short dragonborn, mage
 			- [ ] make in bg3
-		- [ ] [[The three Urchins]] 
+		- [x] [[The three Urchins]] 
 			- [x] a
 			- [x] b
-			- [ ] c
+			- [x] c
 	- [x] Scenes
 		- [x] [[WDCW HQ]] 
 		- [x] [[Rats - Part 1]] 
@@ -24,23 +24,27 @@
 		- [x] [[Rats - part 3]] 
 		- [x] [[Return to WDCW HQ]] 
 	- [ ] Maps
-		- [ ] Part 1 - apartment & street
+		- [x] Part 1 - apartment & street
 		- [ ] Part 2 - Dock wards apothecary
 		- [ ] Part 2 - Temple of rot
 		- [ ] Part 3 - Rat Kings Lair
 		- [ ] Part 3 - Salvation Parade
 		- [ ] Part 3 - Foil the Xanathar
-	- [ ] Art
-		- [ ] Dead body brisby
-		- [ ] Thug
-		- [ ] Joy Hult
-		- [ ] Cultists
-		- [ ] Infected people 
-		- [ ] Swarm of rats
-		- [ ] The rat king
-		- [ ] The lady of plagues
-		- [ ] Apprentice wizard
+	- [x] Art
+		- [x] Dead body brisby
+		- [x] Thug
+		- [x] Joy Hult
+		- [x] Cultists
+		- [x] Infected people 
+		- [x] Swarm of rats
+		- [x] The rat king
+		- [x] The lady of plagues
+		- [x] Apprentice wizard
 	- [ ] Music
+		- [ ] Main outside investigation theme
+		- [ ] in the sewers
+		- [ ] the salvation parade
+		- [ ] foil the xanathar
 	- [x] Items 
 		- [x] Badge of the watch
 	- [ ] Handouts / Puzzle
