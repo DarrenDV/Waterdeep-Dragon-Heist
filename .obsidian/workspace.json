@@ -20,24 +20,12 @@
             }
           },
           {
-            "id": "1df70e2d09cf8b24",
+            "id": "e576e252dcdcef8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapters/Chapter 2/Scenes/Rats - Part 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2c8990f9fd213cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapters/Chapter 2/Scenes/Rats - Part 2.md",
+                "file": "Chapters/Chapter 2/Scenes/Rats - part 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General TODO.md",
+                "file": "Music.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General TODO.md",
+                "file": "Music.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General TODO.md"
+                "file": "Music.md"
               }
             }
           },
@@ -222,14 +211,20 @@
       "initiative-tracker:Intiative Tracker Encounter Builder": false
     }
   },
-  "active": "06495ec64fdd100f",
+  "active": "d4df7383573a88ab",
   "lastOpenFiles": [
+    "General TODO.md",
+    "Chapters/Chapter 2/Scenes/Rats - part 3.md",
+    "Maps/RATS-RATKINGLAIR_50x49.png",
+    "Maps/DungeonScrawl/RATS-RATKINGLAIR.ds.crswap",
+    "Maps/DungeonScrawl/RATS-RATKINGLAIR.ds",
+    "Maps/RATS-TEMPLEOFROT_67x49.png",
     "Chapters/Chapter 2/Scenes/Rats - Part 2.md",
+    "Maps/DungeonScrawl/RATS-TEMPLEOFROT.ds",
+    "Maps/The Quarantine zone.png",
     "Maps/DungeonScrawl/RATS-APOTHECARY.ds.crswap",
     "Maps/DungeonScrawl/RATS-APOTHECARY.ds",
     "Maps/RATS-APOTHECARY_56x38.png",
-    "General TODO.md",
-    "Maps/The Quarantine zone.png",
     "Maps/RATS-Apartement-street_48x49.png",
     "Maps/DungeonScrawl/RATS-Apartement-street.ds",
     "Chapters/Chapter 2/Scenes/Rats - Part 1.md",
@@ -242,11 +237,6 @@
     "Characters/Images/Fullart/rat infected 2.jpg",
     "Characters/Images/Fullart/rat infected 2.jpg.crdownload",
     "Characters/Images/Fullart/rat infected 1.jpg",
-    "Characters/Images/Fullart/rat infected 1.jpg.crdownload",
-    "Characters/Images/Fullart/captain brisby.jpg",
-    "Characters/Images/Fullart/captain brisby.jpg.crdownload",
-    "Characters/Images/Fullart/swarm of rats.webp",
-    "Characters/Images/Fullart/swarm of rats.webp.crdownload",
     "Locations/Trollskull Manor.md",
     "Characters/Friend/The three Urchins.md",
     "Locations/Trollskull Alley.md",
@@ -260,7 +250,6 @@
     "Characters/Friend/Durnan.md",
     "Chapters/Prologue/INTRO - BOLT.md",
     "Chapters/Chapter 1/Scenes/The yawning portal.md",
-    "Chapters/Chapter 2/Scenes/Rats - part 3.md",
     "Chapters/Prologue/INTRO - Siebren the Cooper.md",
     "Items/My Magic Items/Pipes of the sewers.md",
     "Items/My Magic Items/Cloak of billowing.md",

@@ -26,11 +26,11 @@
 	- [ ] Maps
 		- [x] Part 1 - apartment & street
 		- [x] Part 2 - Dock wards apothecary
-		- [ ] Part 2 - Temple of rot
-		- [ ] Part 3 - Rat Kings Lair
+		- [x] Part 2 - Temple of rot
+		- [x] Part 3 - Rat Kings Lair
 		- [ ] Part 3 - Salvation Parade
 		- [ ] Part 3 - Foil the Xanathar
-		- [ ] Rats overview map
+		- [x] Rats overview map
 	- [x] Art
 		- [x] Dead body brisby
 		- [x] Thug
@@ -49,6 +49,9 @@
 	- [x] Items 
 		- [x] Badge of the watch
 	- [ ] Handouts / Puzzle
+		- [x] Fix em
+		- [ ] Print em
+	- [ ] Roll20 everything
 - [ ] Act 3
 	- [ ] Fireball
 - [ ] Act 4
