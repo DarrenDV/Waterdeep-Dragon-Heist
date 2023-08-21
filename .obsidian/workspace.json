@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dbf0914cbc83dbb1",
+        "id": "8708275e8770c930",
         "type": "tabs",
         "children": [
           {
-            "id": "06495ec64fdd100f",
+            "id": "7a40b3fd19ec9a96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Trollskull Alley.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4df7383573a88ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Music.md",
+                "file": "General TODO.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Trollskull Alley.md",
+                "file": "General TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Trollskull Alley.md",
+                "file": "General TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Trollskull Alley.md"
+                "file": "General TODO.md"
               }
             }
           },
@@ -198,8 +186,11 @@
       "initiative-tracker:Intiative Tracker Encounter Builder": false
     }
   },
-  "active": "06495ec64fdd100f",
+  "active": "7a40b3fd19ec9a96",
   "lastOpenFiles": [
+    "Characters/Images/Fullart/Rishaalthepageturner.png",
+    "Locations/Trollskull Alley.md",
+    "Music.md",
     "Chapters/Chapter 1/Scenes/The Sewers.md",
     "Characters/Friend/Durnan.md",
     "Chapters/Prologue/INTRO - BOLT.md",
@@ -211,7 +202,6 @@
     "Maps/The Quarantine zone.png",
     "Maps/RATS-SALVATIONPARADE_71x71.png",
     "Maps/DungeonScrawl/RATS-SALVATIONPARADE.ds",
-    "Music.md",
     "Maps/RATS-RATKINGLAIR_50x49.png",
     "Maps/DungeonScrawl/RATS-RATKINGLAIR.ds.crswap",
     "Maps/DungeonScrawl/RATS-RATKINGLAIR.ds",
@@ -231,7 +221,6 @@
     "Characters/Images/Fullart/joy hult.png",
     "Locations/Trollskull Manor.md",
     "Characters/Friend/The three Urchins.md",
-    "Locations/Trollskull Alley.md",
     "Chapters/Chapter 2/Scenes/Return to WDCW HQ.md",
     "Items/My Magic Items/Amulet of inner peace.md",
     "Chapters/Chapter 1/Scenes/The Sewers.md",
@@ -245,11 +234,6 @@
     "Items/My Magic Items/Pipes of the sewers.md",
     "Chapters/Chapter 2/Scenes/Trollskull Manor.md",
     "Items/My Magic Items/Cloak of billowing.md",
-    "Characters/Vincent Trench.md",
-    "Chapters/Chapter 1/Scenes/The dock ward.md",
-    "Chapters/Chapter 1/Scenes/Candle Lane.md",
-    "SHITTOCTRLF.md",
-    "Chapters/Prologue/INTRO - Witlock.md",
     "Story.canvas",
     "Chapters/Chapter 2/Chapter 2.canvas",
     "Chapters/Chapter 1/Chapter 1.canvas",

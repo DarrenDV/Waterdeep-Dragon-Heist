@@ -1,7 +1,7 @@
 - [x] Add Act 1 item to boss
 	- [x] Ring of true self? Adds wisdom to ki points? Minimum 1
 - [ ] Rats of waterdeep / ACT 2
-	- [ ] Trollskull Alley NPC art
+	- [x] Trollskull Alley NPC art
 		- [x] Talisolvanar "Tally" Fellbranch
 			- [x] 
 		- [x] Embric, who uses his fire to heat the steel up to temperature. And Avi, who uses her cooling to reduce temperatures. 
@@ -11,8 +11,8 @@
 			- [x] a
 		- [x] [[Vincent Trench]] 
 			- [x] a
-		- [ ] Rishaal the page-turner - Short dragonborn, mage
-			- [ ] make in bg3
+		- [x] Rishaal the page-turner - Short dragonborn, mage
+			- [x] make in bg3
 		- [x] [[The three Urchins]] 
 			- [x] a
 			- [x] b
