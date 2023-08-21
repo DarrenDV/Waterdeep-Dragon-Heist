@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "e576e252dcdcef8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapters/Chapter 2/Scenes/Rats - part 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d4df7383573a88ab",
             "type": "leaf",
             "state": {
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Music.md",
+                "file": "General TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Music.md",
+                "file": "General TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Music.md"
+                "file": "General TODO.md"
               }
             }
           },
@@ -211,17 +198,22 @@
       "initiative-tracker:Intiative Tracker Encounter Builder": false
     }
   },
-  "active": "d4df7383573a88ab",
+  "active": "06495ec64fdd100f",
   "lastOpenFiles": [
-    "General TODO.md",
     "Chapters/Chapter 2/Scenes/Rats - part 3.md",
+    "Maps/RATS-FOILTHEXANATHAR_52x46.png",
+    "Maps/DungeonScrawl/RATS-FOILTHEXANATHAR.ds",
+    "General TODO.md",
+    "Maps/The Quarantine zone.png",
+    "Maps/RATS-SALVATIONPARADE_71x71.png",
+    "Maps/DungeonScrawl/RATS-SALVATIONPARADE.ds",
+    "Music.md",
     "Maps/RATS-RATKINGLAIR_50x49.png",
     "Maps/DungeonScrawl/RATS-RATKINGLAIR.ds.crswap",
     "Maps/DungeonScrawl/RATS-RATKINGLAIR.ds",
     "Maps/RATS-TEMPLEOFROT_67x49.png",
     "Chapters/Chapter 2/Scenes/Rats - Part 2.md",
     "Maps/DungeonScrawl/RATS-TEMPLEOFROT.ds",
-    "Maps/The Quarantine zone.png",
     "Maps/DungeonScrawl/RATS-APOTHECARY.ds.crswap",
     "Maps/DungeonScrawl/RATS-APOTHECARY.ds",
     "Maps/RATS-APOTHECARY_56x38.png",
@@ -233,10 +225,6 @@
     "Characters/Images/Fullart/xanathar apprentice wizard.jpg",
     "Characters/Images/Fullart/xanathar apprentice wizard.jpg.crdownload",
     "Characters/Images/Fullart/joy hult.png",
-    "Characters/Images/Fullart/joy hult.png.crdownload",
-    "Characters/Images/Fullart/rat infected 2.jpg",
-    "Characters/Images/Fullart/rat infected 2.jpg.crdownload",
-    "Characters/Images/Fullart/rat infected 1.jpg",
     "Locations/Trollskull Manor.md",
     "Characters/Friend/The three Urchins.md",
     "Locations/Trollskull Alley.md",
@@ -246,7 +234,6 @@
     "Items/My Magic Items/Badge of the watch.md",
     "Chapters/Chapter 2/Scenes/WDCW HQ.md",
     "Chapters/Chapter 2/Scenes/Trollskull Manor.md",
-    "Music.md",
     "Characters/Friend/Durnan.md",
     "Chapters/Prologue/INTRO - BOLT.md",
     "Chapters/Chapter 1/Scenes/The yawning portal.md",

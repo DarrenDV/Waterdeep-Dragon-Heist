@@ -23,13 +23,13 @@
 		- [x] [[Rats - Part 2]] 
 		- [x] [[Rats - part 3]] 
 		- [x] [[Return to WDCW HQ]] 
-	- [ ] Maps
+	- [x] Maps
 		- [x] Part 1 - apartment & street
 		- [x] Part 2 - Dock wards apothecary
 		- [x] Part 2 - Temple of rot
 		- [x] Part 3 - Rat Kings Lair
-		- [ ] Part 3 - Salvation Parade
-		- [ ] Part 3 - Foil the Xanathar
+		- [x] Part 3 - Salvation Parade
+		- [x] Part 3 - Foil the Xanathar
 		- [x] Rats overview map
 	- [x] Art
 		- [x] Dead body brisby
