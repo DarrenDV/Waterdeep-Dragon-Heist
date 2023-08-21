@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General TODO.md",
+                "file": "Locations/Trollskull Alley.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General TODO.md",
+                "file": "Locations/Trollskull Alley.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General TODO.md",
+                "file": "Locations/Trollskull Alley.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General TODO.md"
+                "file": "Locations/Trollskull Alley.md"
               }
             }
           },
@@ -200,6 +200,10 @@
   },
   "active": "06495ec64fdd100f",
   "lastOpenFiles": [
+    "Chapters/Chapter 1/Scenes/The Sewers.md",
+    "Characters/Friend/Durnan.md",
+    "Chapters/Prologue/INTRO - BOLT.md",
+    "Chapters/Chapter 1/Scenes/The yawning portal.md",
     "Chapters/Chapter 2/Scenes/Rats - part 3.md",
     "Maps/RATS-FOILTHEXANATHAR_52x46.png",
     "Maps/DungeonScrawl/RATS-FOILTHEXANATHAR.ds",
@@ -239,6 +243,7 @@
     "Chapters/Chapter 1/Scenes/The yawning portal.md",
     "Chapters/Prologue/INTRO - Siebren the Cooper.md",
     "Items/My Magic Items/Pipes of the sewers.md",
+    "Chapters/Chapter 2/Scenes/Trollskull Manor.md",
     "Items/My Magic Items/Cloak of billowing.md",
     "Characters/Vincent Trench.md",
     "Chapters/Chapter 1/Scenes/The dock ward.md",
