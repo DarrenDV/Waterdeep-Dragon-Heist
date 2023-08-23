@@ -41,17 +41,17 @@
 		- [x] The rat king
 		- [x] The lady of plagues
 		- [x] Apprentice wizard
-	- [ ] Music
-		- [ ] Main outside investigation theme
-		- [ ] in the sewers
-		- [ ] the salvation parade
-		- [ ] foil the xanathar
+	- [x] Music
+		- [x] Main outside investigation theme
+		- [x] in the sewers
+		- [x] the salvation parade
+		- [x] foil the xanathar
 	- [x] Items 
 		- [x] Badge of the watch
 	- [ ] Handouts / Puzzle
 		- [x] Fix em
 		- [ ] Print em
-	- [ ] Roll20 everything
+	- [x] Roll20 everything
 - [ ] Act 3
 	- [ ] Fireball
 - [ ] Act 4

@@ -14,16 +14,35 @@ ACT 1
 
 
 
+ACT 2
+
+| Name                          | Link                                              | Areas / Setting      | Scenes                                           |
+| ----------------------------- | ------------------------------------------------- | -------------------- | ------------------------------------------------ |
+| Trollskull Alley              | https://www.youtube.com/watch?v=FSnQLe9gcYw       | General city         | [[Locations/Trollskull Manor\|Trollskull Manor]] |
+| Starting the mission          | https://www.youtube.com/watch?v=oRh-gghbSD0       | Detective shit       | [[WDCW HQ]]                                      |
+| Entering the QZ / apartements | https://www.youtube.com/watch?v=Babajpyyt4M       | Introduction to rats | [[Rats - Part 1]]                                |
+| Delving into the mystery      | https://www.youtube.com/watch?v=c6DRLNWKiJo       | Exploring rats       | [[Rats - Part 2]]                                |
+| In the sewers                 | https://www.youtube.com/watch?v=Babajpyyt4M       | Finding the Rat king | [[Rats - part 3]]                                |
+| Salvation parade              | https://www.youtube.com/watch?v=EApZmmYg_oQ       | Salvation parade     | [[Rats - part 3]]                                |
+| Foil the Xanathar             | https://www.youtube.com/watch?v=8Q7cioftmKs|                      | [[Rats - part 3]]                                |
+| Finishing the Quest           | https://www.youtube.com/watch?v=3rrTWbpd8eY       |                      | [[Return to WDCW HQ]]                            |
+| Rats fighting music           | https://www.youtube.com/watch?v=3XAhRetZSkU       | General              |                                                  |
+
+
+
+
 General Music
 
-| Name                                         | Link                                        | Areas / Setting |
-| -------------------------------------------- | ------------------------------------------- | --------------- |
-| South park: The Stick of Truth: Battle music | https://www.youtube.com/watch?v=o0T2ItezwXg | General Combat  |
-|                                              |                                             | In the city     |
-|                                              |                                             | Slums           |
-|                                              |                                             | Sewers          |
-|                                              | https://www.youtube.com/watch?v=vyg5jJrZ42s | Tavern          |
-| Baldur's Gate 3 OST - "The power"            | https://www.youtube.com/watch?v=3rrTWbpd8eY| End session     |
+| Name                                         | Link                                        | Areas / Setting                                  |
+| -------------------------------------------- | ------------------------------------------- | ------------------------------------------------ |
+| South park: The Stick of Truth: Battle music | https://www.youtube.com/watch?v=o0T2ItezwXg | General Combat                                   |
+|                                              |                                             | In the city                                      |
+|                                              |                                             | Slums                                            |
+|                                              |                                             | Sewers                                           |
+|                                              | https://www.youtube.com/watch?v=vyg5jJrZ42s | Tavern                                           |
+| Baldur's Gate 3 OST - "The power"            | https://www.youtube.com/watch?v=3rrTWbpd8eY | End session                                      |
+| # Professor Layton - The molentary express   | https://www.youtube.com/watch?v=FSnQLe9gcYw | [[Locations/Trollskull Manor\|Trollskull Manor]] |
+|                                              |                                             |                                                  |
 
 
 
@@ -44,5 +63,5 @@ Other possible music
 | Investigating a Mystery                  | https://www.youtube.com/watch?v=7wBzL62Va1k | Detective Mode        |
 | Professor Layton - The looming Tower     | https://www.youtube.com/watch?v=Babajpyyt4M | Shady stuff           |
 | Thieves and beggars                      | https://www.youtube.com/watch?v=G0F_9yiHBMc | No fucking clue       |
-|                                          |                                             |                       |
+| Oblivion town music                      | https://www.youtube.com/watch?v=Po26CyOtzAA |                       |
 [https://www.youtube.com/watch?v=unb3FdsT5fQ](https://www.youtube.com/watch?v=unb3FdsT5fQ)
