@@ -4,7 +4,6 @@ While wearing this cloak, you can use a bonus action to make it billow dramatica
 
 
 
-
 Dictionary
 
 billowing

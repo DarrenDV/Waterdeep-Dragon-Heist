@@ -59,7 +59,7 @@ Characters who examine the caged rats can make a DC 13 Intelligence (Nature) or 
 
 
 Looking around the room you can find a desk in the corner of the room. The desk has multiple copies of advertisements much like the one in the newspaper copy you obtained. Next to it you find 2 cypher wheels. Give them both handouts. 
-
+![[Apothecary ciphers.png]]
 Puzzle answers:
 • I WISH FOR THE DAY OUR LOVE IS NOT HIDDEN 
 • SAW A RAT TODAY AND THOUGHT OF YOU 
@@ -93,9 +93,6 @@ If the PC's give her the note the following happens:
 
 If they don't give her the note just RP or something IDK
 
-
-
-
 When she read the note or the PC's convinced her somehow of letting them back.
 
 Snixxy takes the characters into the back room, where she taps on Box 908 among the many that line the walls. Before she can open it, however, she informs the characters that they must solve some simple puzzles using “security hints.” With that, she hands a parchment to “Captain Brisby”. Give them the handout. ![[Harbor holdings Security check.png]]
@@ -122,7 +119,7 @@ Inside the lockbox is the following:
 - A 50gp pouch
 - A toy rat, when picked up the pressure from their hand causes the rat to squeak, and a motherly voice within says "Mr. Squeaks loves you!"
 - Some letters, give them handout 
-- ![[Stagets letters.png]]
+- ![[Brisbys letters.png]]
 
 
 # Temple of rot
