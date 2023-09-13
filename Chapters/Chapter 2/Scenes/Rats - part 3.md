@@ -272,5 +272,19 @@ Once killed the PC's can free the slaves, let them RP that out.
 They can find 200gp in loose valuables on the [[Xanathar Guild]] members. 
 
 
+
+After the battle, everyone will celebrate their success, and slaves are thankful to the party for saving them. 
+
+
+
+The lady of plagues will turn to the party, having something to say:
+"First thing first, I think apologies are in order. Threatening the entire city wasn't really the best thing to do, especially after now knowing the entire situation and letting my emotions take a toll on me. Here are some vials for a cure for the poison that was released here by Xanathar. Whilst it isn't enough for everyone, it's quite easily replicateable if you bring it to the right people. Regarding your friend, I don't have a cure nor am I able to make one right now. I'm missing some quite rare ingredients for a cure and am not going to retrieve them myself, I wouldn't even know where to look except for a rumor."
+
+If inquired about the rumor, she has the following to say:
+"Rumor says that there's an old alchemists a few days travel out of town. It was said he was quite powerful and spent his time brewing some nasty concoctions. He's apparantly been missing for quite some time. If you want, I mark the tower on a map for you. If you do end up going, you could bring the ingredients to me and I'll brew a cure. It's the least I could do." 
+This leads to [[The Saving of Stickey Mickey]] 
+
+
+
 After this they did everything they could. The Rat King and Lady of plagues will go back to do their thing. 
 PC's can go end the quest by talking to captain staget back at WDCW HQ. [[Return to WDCW HQ]] 
