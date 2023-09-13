@@ -141,8 +141,8 @@ name: Grum'shar
 size: Medium
 type: humanoid (Orc)
 alignment: Chaotic evil
-ac: 13
-hp: 30
+ac: 12
+hp: 24
 speed: 30 ft.
 stats: [14, 12, 13, 15, 12, 11]
 skills:
