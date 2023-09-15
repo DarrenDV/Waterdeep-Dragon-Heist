@@ -251,7 +251,7 @@ Either now or after foil the xanathar the players can finish the quest by going 
 If they’re alive, the Lady of Plagues and the Rat King gladly join the characters.
 
 Arriving at Cloak Lane, the character with the highest passive Perception notices a line of tied and gagged humanoids being led quietly through shadows by the Xanathar’s goons: 
-4 apprentice wizards, four guards and two thugs. 
+2 apprentice wizards, four guards and two thugs. 
 
 ```statblock
 monster: Guard

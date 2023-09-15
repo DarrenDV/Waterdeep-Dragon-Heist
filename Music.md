@@ -53,15 +53,15 @@ General Music
 
 Other possible music
 
-| Name                                     | Link                                        | Areas                 |
-| ---------------------------------------- | ------------------------------------------- | --------------------- |
-| Hollow Knight greenpath                  | https://www.youtube.com/watch?v=-nOxD5yMPKs | Somewhere serene      |
-| Pokemon Mystery Dungeon Guild music      | https://www.youtube.com/watch?v=qtrNJECvk80 | [[Adventurers Guild]] |
-| Professor Layton - The gilded 7 casino   | https://www.youtube.com/watch?v=zFhHPlVM0-8 | Casino                |
-| Professor Layton - The molentary express | https://www.youtube.com/watch?v=FSnQLe9gcYw | ???                   |
-| Professor Layton - Searching for clues   | https://www.youtube.com/watch?v=oRh-gghbSD0 | ??? Detective shit?   |
-| Investigating a Mystery                  | https://www.youtube.com/watch?v=7wBzL62Va1k | Detective Mode        |
-| Professor Layton - The looming Tower     | https://www.youtube.com/watch?v=Babajpyyt4M | Shady stuff           |
-| Thieves and beggars                      | https://www.youtube.com/watch?v=G0F_9yiHBMc | No fucking clue       |
-| Oblivion town music                      | https://www.youtube.com/watch?v=Po26CyOtzAA |                       |
-[https://www.youtube.com/watch?v=unb3FdsT5fQ](https://www.youtube.com/watch?v=unb3FdsT5fQ)
+| Name                                                 | Link                                        | Areas                 |
+| ---------------------------------------------------- | ------------------------------------------- | --------------------- |
+| Hollow Knight greenpath                              | https://www.youtube.com/watch?v=-nOxD5yMPKs | Somewhere serene      |
+| Pokemon Mystery Dungeon Guild music                  | https://www.youtube.com/watch?v=qtrNJECvk80 | [[Adventurers Guild]] |
+| Professor Layton - The gilded 7 casino               | https://www.youtube.com/watch?v=zFhHPlVM0-8 | Casino                |
+| Professor Layton - The molentary express             | https://www.youtube.com/watch?v=FSnQLe9gcYw | ???                   |
+| Professor Layton - Searching for clues               | https://www.youtube.com/watch?v=oRh-gghbSD0 | ??? Detective shit?   |
+| Investigating a Mystery                              | https://www.youtube.com/watch?v=7wBzL62Va1k | Detective Mode        |
+| Professor Layton - The looming Tower                 | https://www.youtube.com/watch?v=Babajpyyt4M | Shady stuff           |
+| Thieves and beggars                                  | https://www.youtube.com/watch?v=G0F_9yiHBMc | No fucking clue       |
+| Oblivion town music                                  | https://www.youtube.com/watch?v=Po26CyOtzAA |                       |
+| Fear & Hunger 2: Termina OST - Dark outside extended | https://www.youtube.com/watch?v=SHQhMAnkXlQ | Creepy                |
