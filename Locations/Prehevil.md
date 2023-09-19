@@ -18,7 +18,10 @@ Prehevil is surrounded by a thick fog which is only visible to people who've bee
 
 
 
+# Mood
+The mood in Prehevil is quite gloomy, with most people ignoring the party, or at least not going out of their way to interact with them. 
 
+In reality, this isnt the first time some adventurers have shown up, it happens once every few years. But at least up until now, they've never returned once attempting to leave. The villagers simply ignore the adventurers because in their eyes, they'll most likely die quite soon and are not worth it to get emotionally attached to. 
 
 
 
