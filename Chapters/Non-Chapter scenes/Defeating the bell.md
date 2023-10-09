@@ -6,4 +6,9 @@ The Chimer and golem can be encountered at any point, and can also be avoided if
 
 ![[Chimer.png]]
 
+Paralyzing touch dc 12
+
+
+
+
 ![[Golem.png]]
