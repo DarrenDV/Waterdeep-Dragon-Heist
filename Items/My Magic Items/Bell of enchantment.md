@@ -6,10 +6,10 @@ The wielder can do the following at any time they please:
 	**Haunted Aura:** 
 	The presence of the Bell of Enchantment creates an unsettling atmosphere. 
 	When the wearer enters a room or area, they can choose to ring the bell softly, causing all creatures within 30 feet to become aware of their presence. 
-	This can be used for dramatic entrances or to intimidate foes.
+	This can be used for dramatic entrances or to disturb foes.
 
 
-The wielder of the bell gains the following actions, and can only use one per day
+The wielder of the bell gains the following actions, and can using one uses 4 charges, you can carry a total of 7 charges, you regain 1d4 charges each day
 * Ring out an eerie petrifying chime targeting 1 creature, the creature must succeed a DC 15 wisdom saving throw or be locked in place
 	* The creature cannot move anymore (use movement)
 	* At the start of each of the creatures turn, they can attempt another wisdom saving throw to free themselves
