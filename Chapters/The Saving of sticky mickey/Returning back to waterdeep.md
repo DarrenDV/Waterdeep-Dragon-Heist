@@ -14,7 +14,7 @@ The villagers don't have much as a reward, as their resources were slowly dwindl
 # Waterdeep
 Returning back to waterdeep the party had a nice travel, with nothing special happening on their way back. 
 
-Arriving in waterdeep. They find a flyers posted everywhere for a couple of thing. 2 days after they left, a high end casino opened somewhere in the upper district. A couple days later, the yearly drow circus, [[Bregan D'aerthe]] arrived in the port and are doing their events and shows for the following month. And just 2 days ago, the yearly traveling market appeared, housing items from around the forgotton realms, stated to leave in a couple of days. 
+Arriving in waterdeep. They find a flyers posted everywhere for a couple of thing. A couple days after leaving, the yearly drow circus [[Bregan D'aerthe]], known for their technological advancements and inventions, arrived in the port and are doing their events and shows for the following month. And just 2 days ago, the yearly traveling market appeared, housing items from around the forgotten realms.
 
 
 When arriving at the stolen gem, they find that the Lady of plagues is there, waiting for them. 

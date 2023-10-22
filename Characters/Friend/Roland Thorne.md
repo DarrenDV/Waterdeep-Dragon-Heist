@@ -1,0 +1,1 @@
+Roland Thorne is the head inquisitor of the church of tyr
