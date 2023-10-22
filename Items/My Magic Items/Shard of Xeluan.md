@@ -15,7 +15,7 @@ _**Empowered Magic.**_ While holding the shard, you can use it as a spellcastin
 _**Enhanced Strength.**_ Your Strength score increases by 2 while the shard is on your person. The shard can't raise your Strength score above 22.
 
 
-_**Curse.**_ Attuning to this item extends its curse to you. You remain cursed until you are targeted by a 5th level [Remove Curse](http://dnd5e.wikidot.com/spell:remove-curse) spell or similar magic, or until the shard is reattached to Xeluan's petrified heart.
+_**Curse.**_ Attuning to this item extends its curse to you. You remain cursed until you are targeted by a 5th level [Remove Curse](http://dnd5e.wikidot.com/spell:remove-curse) spell or similar magic.
 The shard's curse causes misfortune to befall you. When you roll a 1 on an attack roll, an ability check, or a saving throw, roll on the Shard Misfortunes table to determine the misfortune. For as long as this misfortune lasts, no other shard misfortunes befall you.
 
 | d6  | Misfortune                                                                                                                                                                                                                                     |

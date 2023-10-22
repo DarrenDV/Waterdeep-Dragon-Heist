@@ -11,7 +11,7 @@ What does Roland know?
 * We suspect that a demon or devil may be responsible for these disturbances.
 * We have no intel on anything happening over at amber street before.
 * The party is to explore the neighborhood and discover whatever's going on. 
-* The party are advised to look around houses 18-34 as that's where the majority of reports come from
+* The party are advised to look around houses 19-34 as that's where the majority of reports come from
 * Maybe something if they ask a cool question 
 * He is willing to give 250gp for completing the quest
 
