@@ -66,6 +66,15 @@ https://www.youtube.com/watch?v=Ch4rFfqd5BQ Market
 https://www.youtube.com/watch?v=3okjFDo2aSU swmg
 
 
+
+
+https://www.youtube.com/watch?v=466w7eGcuPk&t=773s casino 1
+https://www.youtube.com/watch?v=qUD495Pd6Vc casino 2
+
+
+
+
+
 Other possible music
 
 | Name                                                 | Link                                        | Areas                 |

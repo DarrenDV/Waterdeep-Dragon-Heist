@@ -42,20 +42,22 @@ The players know the layout of the hideout so they're given that.
 ![[Xanathar guild hideout.png]]
 
 ## Q2
-Houses 2 goblins in Q2a this time around
+Houses 2 goblins in Q2a this time around 
 ```statblock
 monster: Goblin
 ```
 
 
 ## Q3
-Houses a chest containing 48gp
+Houses a chest containing 62gp
 
 ## Q4 
 Is once again set up for sleeping and houses 2 thugs and 2 goblins
 ```statblock
 monster: Thug
 ```
+both thugs have 20 gold in a pouch
+
 # Q5
 Q5 now looks like some sort of armory with scrappy weapons and tools, nothing of value
 
@@ -73,7 +75,7 @@ Houses 2 dogs, 2 goblins and a modified thug called Noska Ur'Gray
 He says something along the lines of:
 "Hey ive heard about you guys, you couldnt have enough killing Grum?! You're back for round 2?! Well I won't go as easy on you as he did"'
 
-Noska carries a pouch containing 50gp and some casino chips (50).
+Noska carries a pouch containing 83gp and some casino chips (50).
 
 
 ![[noska ur'gray.png]]
