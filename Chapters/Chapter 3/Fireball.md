@@ -94,3 +94,7 @@ Dalakhar had some kind of artifact in his possession which, according to Urstul 
 
 # WHAT NOW
 From this point onward the party might be able to deduce that they should visit the circus of innovations. If they dont however, they can spend the rest of their time doing whatever, they can contact the detective to maybe help them or just wait on the next thing to happen. 
+
+
+
+## Speaking with renear
