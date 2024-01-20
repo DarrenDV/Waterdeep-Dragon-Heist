@@ -13,3 +13,6 @@ A blinkshot arrow does no damage due to the fact that it's not pointy.
 
 Blinkshot uses complex magic bound to the gravity of the moon, but can only do this once per day.
 It recharges at midnight when the moon is shining bright.  
+
+
+

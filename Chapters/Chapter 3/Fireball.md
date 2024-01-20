@@ -98,3 +98,4 @@ From this point onward the party might be able to deduce that they should visit 
 
 
 ## Speaking with renear
+"When the Lords of Waterdeep ousted my father, I thought his long, dark shadow was finally gone for good. The truth is, I want nothing to do with him. But his spies hound me. One of them, a gnome named Dalakhar, had been watching me for months. Then, about two tendays ago, the spy was suddenly nowhere to be seen. My fathe r didn't trust many people, but he trusted that gnome. "I spoke to a few of Dalakhar's friends. Apparently, he was on a special mission to retrieve the Stone of Golorr and was afraid that the Zhentarim and the Xanathar Guild were close to catching him. When he heard about my kidnapping, he wanted more information about the adventurers who had rescued me. I think Dalakhar was planning to pay you to deliver the Stone of Colorr to my father in Neverwinter."
