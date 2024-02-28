@@ -1,10 +1,12 @@
 The Bouncefire Launcher is a crossbow that magically imbues the bolts/arrows it fires with the power of ricochet. 
 
-Arrows can bounce __once__ of off walls or bounce off of an enemy when the enemy is not hit.
+Arrows can bounce __once__ of off walls or bounce off of an enemy when the enemy is not hit. This does use the same attack roll, thus the chance of hitting is not high)
 
 The shooter can target an enemy with the intent to make the shot ricochet, thus not damaging that target. 
 
-When the ATK roll is too low < 10? (d20 <= 3) ACTUALLYMAYBECHANGE, the shot will bounce back toward a random teammate (including you) dealing the average attacks full damage (+ any modifiers) / 2 rounded down. ACTUALLYMAYBECHANGE
-For example: (1d6+3) = 3 damage. 
+The weapon has a +1
+
+When the pure d20 roll is equal to or lower than 3 the shot bounces towards the nearest player and deals the full damage divided by 2 (all dice and modifiers)
+
 
 ![[Bouncefire Launcher.png]]

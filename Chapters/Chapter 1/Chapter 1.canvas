@@ -4,7 +4,8 @@
 		{"type":"file","file":"Chapters/Chapter 1/Scenes/The yawning portal.md","id":"c1628c838ed3d332","x":-800,"y":-340,"width":400,"height":400},
 		{"type":"file","file":"Chapters/Chapter 1/Scenes/Candle Lane.md","id":"32040cfbec835750","x":220,"y":-340,"width":400,"height":400},
 		{"type":"file","file":"Chapters/Chapter 1/Scenes/The Sewers.md","id":"95c94f6b346ff62b","x":700,"y":-340,"width":400,"height":400},
-		{"type":"file","file":"Chapters/Chapter 1/Scenes/The dock ward.md","id":"cada082f0514c58a","x":-280,"y":-340,"width":400,"height":400}
+		{"type":"file","file":"Chapters/Chapter 1/Scenes/The dock ward.md","id":"cada082f0514c58a","x":-280,"y":-340,"width":400,"height":400},
+		{"id":"c96064984baa31ab","type":"file","file":"Maps/Xanathar guild hideout colored.jpg","x":-800,"y":440,"width":400,"height":307}
 	],
 	"edges":[
 		{"id":"8146764aa93a6749","fromNode":"c1628c838ed3d332","fromSide":"right","toNode":"cada082f0514c58a","toSide":"left"},

@@ -14,21 +14,22 @@ Just rp a bunch here
 # Selling list
 The list of niblewright customers has around 15 entries, each with a name and location of where the nimblewright should be sent to
 
-| Family Name         | Location                | Number of Nimblewrights |
-|---------------------|-------------------------|-------------------------|
-| Thunderstaff        | Silk Street, Sea Ward    | 3                       |
-| Stonehelm           | Moon Lane, Trades Ward  | 3                       |
-| Hawklight           | Sunflower Alley, Dock Ward | 1                     |
-| Moonshadow          | Silver Street, Dock Ward | 2                       |
-| Stormrider          | Stormy Lane, Sea Ward    | 2                       |
-| Firebeard           | Ember Lane, Sea Ward     | 1                       |
-| Ironshield          | Iron Street, Castle Ward | 3                       |
-| Gralhund            | Griffin Lane, North Ward | 1                       |
-| Wardragon           | Dragon's Roost, Dock Ward | 1                      |
-| Ravengard           | Raven's Perch, Castle Ward | 2                     |
-| Trolltusk           | Troll Alley, Trades Ward | 4                        |
-| Silverhand          | Silver Crescent, City of the Dead | 1                |
-| Blackstaff          | Blackstone Way, Castle Ward | 2                        |
-| Brightwater         | Sunflower Terrace, Southern Ward | 1                  |
-| Moonfire            | Moonlit Path, Southern Ward | 1                       |
+| Family Name | Location | Number of Nimblewrights |
+| ---- | ---- | ---- |
+| Thunderstaff | Silk Street, Sea Ward | 3 |
+| Stonehelm | Moon Lane, Trades Ward | 3 |
+| Hawklight | Sunflower Alley, Dock Ward | 1 |
+| Moonshadow | Silver Street, Dock Ward | 2 |
+| Stormrider | Stormy Lane, Sea Ward | 2 |
+| Firebeard | Ember Lane, Sea Ward | 1 |
+| Ironshield | Iron Street, Castle Ward | 3 |
+| Gralhund | Griffin Lane, North Ward | 1 |
+| Wardragon | Dragon's Roost, Dock Ward | 1 |
+| Ravengard | Raven's Perch, Castle Ward | 2 |
+| Trolltusk | Troll Alley, Trades Ward | 4 |
+| Silverhand | Silver Crescent, City of the Dead | 1 |
+| Blackstaff | Blackstone Way, Castle Ward | 2 |
+| Brightwater | Sunflower Terrace, Southern Ward | 1 |
+| Moonfire | Moonlit Path, Southern Ward | 1 |
+|  |  |  |
 

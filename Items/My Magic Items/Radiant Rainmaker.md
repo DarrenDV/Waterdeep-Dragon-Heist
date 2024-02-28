@@ -5,9 +5,9 @@ A holy bow that infuses it's attack with the power of faith, changing every atta
 Through the power of faith you can shoot an arrow upwards, letting a volley of arrows fall downward. (even through roofs)
 You can do this 3 times a day, and it recharges each dawn. 
 
+it is +1
 
-
-![[Rainmaker AOE.png]]
+![[Rainmaker AOE.png|500]]
 
 
 Basically gives you an attack with this range 3 times / day.

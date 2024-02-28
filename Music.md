@@ -76,6 +76,21 @@ https://www.youtube.com/watch?v=qUD495Pd6Vc casino 2
 https://www.youtube.com/watch?v=ulplqXTp4R0
 
 
+
+https://www.youtube.com/watch?v=BjXNlIaGfrY
+youtube.com/watch?v=WW4bdFhcZgw&t=24s
+
+
+
+https://www.youtube.com/watch?v=8Q7cioftmKs&t=4s&ab_channel=Bardify
+
+
+https://www.youtube.com/watch?v=rEV8DfVoI7k
+https://www.youtube.com/watch?v=AB11OHdhTUA
+
+
+
+
 Other possible music
 
 | Name                                                 | Link                                        | Areas                 |
