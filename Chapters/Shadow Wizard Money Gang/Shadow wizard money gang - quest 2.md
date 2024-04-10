@@ -88,7 +88,7 @@ Whilst the puzzle is not solved and the party hasnt escaped, 3 turns one of each
 ![[stronger mage.png]]
 ![[weaker mage.png]]
 ![[Apprentice Wizard.png]]
-![[Pasted image 20240313184515.png]]
+![[Smoke mephit.png]]
 
 #### Library back room
 Has books furthering siebrens echo dimension research.
