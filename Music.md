@@ -90,6 +90,9 @@ https://www.youtube.com/watch?v=AB11OHdhTUA
 
 
 
+[[Cassalanter heist]] 
+Attic fight https://www.youtube.com/watch?v=_YpKEpF0oxo&t=3s&ab_channel=Bardify 
+generic exploration https://www.youtube.com/watch?v=WW4bdFhcZgw&t=24s&ab_channel=Bardify
 
 
 
