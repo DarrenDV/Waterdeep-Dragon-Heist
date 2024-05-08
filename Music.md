@@ -95,6 +95,13 @@ Attic fight https://www.youtube.com/watch?v=_YpKEpF0oxo&t=3s&ab_channel=Bardify
 generic exploration https://www.youtube.com/watch?v=WW4bdFhcZgw&t=24s&ab_channel=Bardify
 
 
+https://www.youtube.com/watch?v=nME2xU_l7ZE - Exploration
+https://www.youtube.com/watch?v=SHQhMAnkXlQ - Meeting cassalanters
+https://www.youtube.com/watch?v=gQe15F2Nmhc&ab - Fight start
+https://www.youtube.com/watch?v=Wl7aL29TxYI - Fight extend
+https://www.youtube.com/watch?v=43kegshdgXc - Somewhere in the mix
+https://www.youtube.com/watch?v=HBnC5E3oz8c - Final push
+
 
 
 Other possible music
