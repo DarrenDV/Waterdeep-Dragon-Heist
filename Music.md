@@ -107,6 +107,28 @@ https://www.youtube.com/watch?v=HBnC5E3oz8c - Final push
 https://www.youtube.com/watch?v=pk5IwDX2p-o&ab_channel=Bardify
 
 
+
+INTRO - https://www.youtube.com/watch?v=BdVhfRypJkQ
+
+
+THE COMPOUND - https://www.youtube.com/watch?v=EApZmmYg_oQ&t=92s
+ASKING AROUND - https://www.youtube.com/watch?v=J9q9QPNX-mc
+SNEAKING IN COMPOUND - 
+COMBAT - https://www.youtube.com/watch?v=o0T2ItezwXg
+
+HEIST Exploring - https://www.youtube.com/watch?v=XFshyenXjsg&list=PLuE3ABw6vYeQ3JX68mySK70zEgKmzHipA
+HEIST COMBAT - https://www.youtube.com/watch?v=c4-S9N1ecOo&t=4s
+ANIMAL COMBAT - https://www.youtube.com/watch?v=QnX4rkyygOg
+HEIST BOSS - https://www.youtube.com/watch?v=tQ4czITpeVQ
+
+LAREAL- https://www.youtube.com/watch?v=oHUmOXYEamE
+
+
+
+
+
+
+
 Other possible music
 
 | Name                                                 | Link                                        | Areas                 |

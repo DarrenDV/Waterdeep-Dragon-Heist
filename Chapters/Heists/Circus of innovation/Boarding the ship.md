@@ -4,13 +4,6 @@
 RP it out
 
 TODO: 
-- WORK MAP OUT X
-  - EVERY ROOM X
-  - BOSS X
-  - Eye X
-  - FUNNY X
-  - JELLE SHIT X
-- ROLL20
 - Music
 - After heist Mayor Scene
 
@@ -40,6 +33,11 @@ monster: Drow
 ![[drow gunslinger.png]]
 
 ![[Jarl.png]]
+
+![[Statblock images/nimblewright.png]]
+
+
+
 ##### J1 - Main deck
 3 sailors (drow) and a mate (drow elite warrior)
 
@@ -112,7 +110,7 @@ The ship's wheel stands atop the deck.
 ##### J12 - Upper cargo hold
 This hold contains the following features: 
 • Large grilled doors in the ceiling open to allow goods to be moved to and from this hold using the cargo elevator. A 15-foot-by-10-foot section of floor opens to reveal the lower cargo hold. Crates and barrels stacked to the ceiling are tied down to ensure that they don't move. These containers bold food and water for the crew and the carnies.
-Cargo Elevator. To activate an elevator platform, a creature must stand on the platform and use an action to pull a lever up or down. The platform can't be raised higher than the main deck (areaJl) or lowered deeper than a ship's lowest cargo hold. The trapdoor in the Boor opens when the ca rgo eleva- tor is rai sed. If the platform is raised to areaJl, the trapdoor remains open until the elevator platform returns to this area
+Cargo Elevator. To activate an elevator platform, a creature must stand on the platform and use an action to pull a lever up or down. The platform can't be raised higher than the main deck (areaJl) or lowered deeper than a ship's lowest cargo hold. The trapdoor in the Boor opens when the cargo elevator is raised. If the platform is raised to areaJl, the trapdoor remains open until the elevator platform returns to this area
 
 ##### J13 - Head
 Book
@@ -133,15 +131,16 @@ The cabin has the following features:
 • Stairs lead down into the ship's belly. 
 
 Safe (Eyecatcher Only). The armory aboard the Eyecatcher also features a 750-pound cast iron safe with a combination lock. 
-Jarlaxle and his lieutenants (Fel'rekt Lafeen, Krebbyg Masq'il'yr, aod Soluun Xibrindas) know the combination: 1-20-59. A character can pick the lock with a successful DC 25 Dexterity (Investigation) check using thieves' tools. Each attempt takes 1 minute. A knock spell or similar magic also opens the safe, which contains three pistols, twelve leather packets of smokepowder, three leather pouches containing twenty bullets each, and 250 gp in a sack.
+Jarlaxle and his captains know the combination: 1-20-59. A character can pick the lock with a successful DC 25 Dexterity (Investigation) check using thieves' tools. Each attempt takes 1 minute. A knock spell or similar magic also opens the safe, which contains three pistols, twelve leather packets of smokepowder, three leather pouches containing twenty bullets each, and 250 gp in a sack.
 
 
 ##### J17 - Lower cargo hold
 The lower cargo hold is really off limits, as all the really big contraband is stored down here. 
 
-The aft section of the hold of the Eyecatcher is guarded by four giant spiders painted in bright colors. These arachnids have been trained by jarlaxle since they were hatchlings, and they can pass themselves off as inanimate float decorations by remaining perfectly still until they attack. They aren't hostile toward drow, whose true nature they sense despite the ship's illusion magic. Characters who have a passive Wisdom (Perception) score of 17 or higher realize that the spiders arc a threat before the creatures attack. 
 
 The rooms also has a bunch of broken down nimblewrights, some missing limbs or having misshapen ones. Upon closer inspection they can be seen being labeled as version 0. something
+
+Some nimblewrights however are still up and running, and passing from the first room into the 2nd will cause 4 of the nimblewrights to activate, these nimblewrights are all defunct however, so are a bit slower and dont have magical resistance. 
 
 ##### J18 - Nimblewright Storage
 These are the nimblewrights which Jarlaxle has not yet sold. The process for activating them can be intuited with 5 minutes of work and a DC 18 Intelligence (Arcana) test. Jarlaxle and his lieutenants all know the procedure and can activate one of the nimblewrights with a single action.
