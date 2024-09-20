@@ -24,3 +24,8 @@ That new engine did the trick.
 By placing it and removing all the excess fat, so to speak, from the original unit we have created an incredibly fast moving automaton. The old one looks like a giant rust bucket compared to these new ones. 
 I've arranged mass production to begin shortly and we'll sell them off around the gold coast.
 Who knows, maybe the guards will buy them off of us. 
+
+
+
+You gain a standard +1 dex and +5ft of movement
+You can trim off excess fat by removing 1ac for another +1 dex and +5ft of movement (up to a maximum of 20 dex)
