@@ -9,8 +9,8 @@
 		{"type":"text","text":"Adventurers join the race to find and unlock the vault of dragons","id":"eeecdeae5e3875e5","x":-600,"y":781,"width":250,"height":87},
 		{"type":"text","text":"Chapter 5: Villain lair","id":"9864624d0964b566","x":-600,"y":981,"width":250,"height":52},
 		{"type":"text","text":"Chapter 2: Trollskull alley","id":"cc4050020d732ab4","x":-601,"y":108,"width":250,"height":60},
-		{"id":"963de89cf9cfaa28","x":320,"y":-62,"width":400,"height":400,"type":"file","file":"Chapters/Chapter 2/Chapter 2.canvas"},
-		{"type":"file","file":"Chapters/Chapter 1/Chapter 1.canvas","id":"ee31991fc5f12900","x":320,"y":-510,"width":400,"height":400}
+		{"id":"963de89cf9cfaa28","x":320,"y":-62,"width":400,"height":400,"type":"file","file":"Chapters/Chapter 2 - RATS!/Chapter 2.canvas"},
+		{"type":"file","file":"Chapters/Chapter 1 - Saving nobility/Chapter 1.canvas","id":"ee31991fc5f12900","x":320,"y":-510,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"aa3da21f1e62915b","fromNode":"f8b9976db0e6cca7","fromSide":"right","toNode":"ee31991fc5f12900","toSide":"left"},

@@ -15,7 +15,7 @@ Volo can act as a guide to waterdeep and basically knows where almost anything c
 
 ## Status / Pockets
 Alive: Yes
-Pockets: Deed to [[Chapters/Chapter 2/Scenes/Trollskull Manor]] 
+Pockets: Deed to [[Chapters/Chapter 2 - RATS!/Scenes/Trollskull Manor]] 
 Volos guide to waterdeep:
 100gp.
 

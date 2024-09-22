@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"type":"file","file":"Chapters/Chapter 2 - RATS!/Scenes/Trollskull Manor.md","id":"dcd03db46d221268","x":-620,"y":-160,"width":400,"height":400},
+		{"type":"file","file":"Chapters/Chapter 2 - RATS!/Scenes/WDCW HQ.md","id":"2447f1100eb33b4f","x":0,"y":-160,"width":400,"height":400},
+		{"type":"file","file":"Chapters/Chapter 2 - RATS!/Scenes/Rats - Part 1.md","id":"1769695a67c39d40","x":640,"y":-160,"width":400,"height":400},
+		{"id":"68fbda5874b53679","x":1280,"y":-160,"width":400,"height":400,"type":"file","file":"Chapters/Chapter 2 - RATS!/Scenes/Rats - Part 2.md"},
+		{"id":"87720109e2b69763","x":1880,"y":-160,"width":400,"height":400,"type":"file","file":"Chapters/Chapter 2 - RATS!/Scenes/Rats - part 3.md"}
+	],
+	"edges":[
+		{"id":"6cbb679ca32cd8f6","fromNode":"dcd03db46d221268","fromSide":"right","toNode":"2447f1100eb33b4f","toSide":"left"},
+		{"id":"2e4666b7df1d07d9","fromNode":"2447f1100eb33b4f","fromSide":"right","toNode":"1769695a67c39d40","toSide":"left"},
+		{"id":"5a368771c582ef69","fromNode":"1769695a67c39d40","fromSide":"right","toNode":"68fbda5874b53679","toSide":"left"},
+		{"id":"01e5ffae3f7812fc","fromNode":"68fbda5874b53679","fromSide":"right","toNode":"87720109e2b69763","toSide":"left"}
+	]
+}
