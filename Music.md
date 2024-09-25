@@ -127,6 +127,29 @@ LAREAL- https://www.youtube.com/watch?v=oHUmOXYEamE
 
 
 
+FINAL Session 
+INTRO > https://www.youtube.com/watch?v=yo0zzQm70Jg
+START > https://www.youtube.com/watch?v=_8URgTk_9eY
+JOURNEY TO VAULT > https://www.youtube.com/watch?v=NknjE2SBPxw
+CATACOMBS > https://www.youtube.com/watch?v=TuzWIVGwkXE
+VAULT > https://www.youtube.com/watch?v=a5yNa6VK6oU
+MEETING AURINAX > https://www.youtube.com/watch?v=SI9u0nFa_NQ
+AURINAX BATTLE > https://www.youtube.com/watch?v=d77bHaGLdAk
+AFTER AURINAX > https://www.youtube.com/watch?v=JGJEYYpZ7d8
+HYPE GET READY MUSIC > https://www.youtube.com/watch?v=JS4qkSqXbs4
+FINAL BATTLE BEFORE > https://www.youtube.com/watch?v=RPkHu8M_U4c
+FINAL BATTLE > https://www.youtube.com/watch?v=Pa6zilRpzqw
+AFTER FINAL BATTLE > if anyone dies https://www.youtube.com/watch?v=RW3s6YqftS4 else https://www.youtube.com/watch?v=Y54WJW5xibQ
+WEEK AFTER BATTLE > https://www.youtube.com/watch?v=HhovMGOX1xQ
+RETURNING TO THE VAULT > ? https://www.youtube.com/watch?v=-KSJkDNGiXk
+PROLOGUE > https://www.youtube.com/watch?v=gTsCaHw_7tE
+TO CLOUDS > https://www.youtube.com/watch?v=lkBIMLQQsI8 / 1:40 maybe a bit before that
+MISTJIG > https://www.youtube.com/watch?v=DXayww-L7PU
+
+
+
+white palace?
+
 
 
 Other possible music
